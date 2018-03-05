@@ -1,5 +1,5 @@
 # all-countries-json
-International Country Codes / Dialing Codes / Capital / ISO Code / Currency 
+International Country Codes / Dialing Codes / Capital / ISO Code / Currency / Language Codes
 
 ## Includes
 
