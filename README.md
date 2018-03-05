@@ -26,5 +26,20 @@ International Country Codes / Dialing Codes / Capital / ISO Code / Currency
 * **UNTERM English Short**: Country's short English name from UN Protocol and Liaison Service
 * **UNTERM French Formal**: Country's formal French name from UN Protocol and Liaison Service
 * **UNTERM French Short**: Country's short French name from UN Protocol and Liaison Service
+* **UNTERM Russian Formal**: Country's formal Russian name from UN Protocol and Liaison Service
+* **UNTERM Russian Short**: Country's short Russian name from UN Protocol and Liaison Service
+* **UNTERM Spanish Formal**: Country's formal Spanish name from UN Protocol and Liaison Service
+* **UNTERM Spanish Short**: Country's short Spanish name from UN Protocol and Liaison Service
+* **CLDR display name**: Country's customary English short name (CLDR)
+* **Capital**: Capital city from Geonames
+* **Continent**: Continent from Geonames
+* **DS**: Distinguishing signs of vehicles in international traffic
+* **Developed / Developing Countries**: Country classification from United Nations Statistics Division
+* **Dial**: Country code from ITU-T recommendation E.164, sometimes followed by area code
+* **EDGAR**: EDGAR country code from SEC
+* **FIFA**: Codes assigned by the FÃ©dÃ©ration Internationale de Football Association
+* **FIPS**: Codes from the U.S. standard FIPS PUB 10-4
+* **GAUL**: Global Administrative Unit Layers from the Food and Agriculture Organization
+* **Geoname ID**: Geoname ID
 * ****: 
 
