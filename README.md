@@ -41,5 +41,21 @@ International Country Codes / Dialing Codes / Capital / ISO Code / Currency
 * **FIPS**: Codes from the U.S. standard FIPS PUB 10-4
 * **GAUL**: Global Administrative Unit Layers from the Food and Agriculture Organization
 * **Geoname ID**: Geoname ID
-* ****: 
-
+* **Global Code**: Country classification from United Nations Statistics Division
+* **Global Name**: Country classification from United Nations Statistics Division
+* **IOC**: Codes assigned by the International Olympics Committee
+* **ITU**: Codes assigned by the International Telecommunications Union
+* **Intermediate Region Code**: Country classification from United Nations Statistics Division
+* **Intermediate Region Name**: Country classification from United Nations Statistics Division
+* **Land Locked Developing Countries (LLDC)**: Country classification from United Nations Statistics Division
+* **Languages**: Languages from Geonames
+* **Least Developed Countries (LDC)**: Country classification from United Nations Statistics Division
+* **MARC**: MAchine-Readable Cataloging codes from the Library of Congress
+* **Region Code**: Country classification from United Nations Statistics Division
+* **Region Name**: Country classification from United Nations Statistics Division
+* **Small Island Developing States (SIDS)**: Country classification from United Nations Statistics Division
+* **Sub-region Code**: Country classification from United Nations Statistics Division
+* **Sub-region Name**: Country classification from United Nations Statistics Division
+* **TLD**: Top level domain from Geonames
+* **WMO**: Country abbreviations by the World Meteorological Organization
+* **is_independent**: Country status, based on the CIA World Factbook
